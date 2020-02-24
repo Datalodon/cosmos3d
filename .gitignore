@@ -24,13 +24,15 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
 
+libs/openFrameworksCompiled/project/vs/obj/Win32/Debug/openframeworksLib.*
+libs/openFrameworksCompiled/lib/vs/Win32/*
+libs/openFrameworksCompiled/project/*
 apps/myApps/Cosmos3d/bin
 apps/myApps/Cosmos3d/obj
 apps/myApps/Cosmos3d/Cosmos3d.vcxproj.filters
